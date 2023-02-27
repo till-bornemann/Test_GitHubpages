@@ -1,6 +1,6 @@
 # Homepage title
 
-![example logo](/assets/cat_example_pic.jpg)
+![example logo](docs/assets/cat_example_pic.jpg)
 
 
 ## Cat1
