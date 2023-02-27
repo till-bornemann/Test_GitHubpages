@@ -1,5 +1,22 @@
-# Test Repo to test Github pages functionality
+# Homepage title
 
-This is a test repository to test the github pages functionality
+## Cat1
+
+XX,mail, office
+
+## Cat2
+
+YY,mail, office
+
+ZZ, mail, office
+
+## Cat3
+
+AA, mail, office
+
+BB, mail, office
+
+CC, mail, office
+
 
 
