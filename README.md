@@ -1,5 +1,8 @@
 # Homepage title
 
+![example logo](/assets/cat_example_pic.jpg)
+
+
 ## Cat1
 
 XX,mail, office
