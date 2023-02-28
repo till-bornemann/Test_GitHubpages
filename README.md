@@ -6,7 +6,7 @@
 #Access subpages
 ## Access test team page
 
-[Team](https://till-bornemann.github.io/Test_GitHubpages/teamtemplate.md )
+[Team](https://till-bornemann.github.io/Test_GitHubpages/teamtemplate )
 
 ## Access testpubls page
 
